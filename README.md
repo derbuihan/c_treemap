@@ -23,7 +23,7 @@ key-value pairs and provide efficient insertion, deletion and retrieval operatio
 ```C
 #include <stdio.h>
 
-#include "hashmap.h"
+#include "treemap.h"
 
 int main() {
   struct TreeMap *treeMap = newTreeMap();
